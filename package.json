@@ -1,0 +1,30 @@
+{
+  "name": "e-shop",
+  "version": "1.0.0",
+  "description": "First e-shop",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N1m3s17/E-Shop.git"
+  },
+  "author": "Semin Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N1m3s17/E-Shop/issues"
+  },
+  "homepage": "https://github.com/N1m3s17/E-Shop#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "nodemon": "^1.18.10"
+  }
+}
