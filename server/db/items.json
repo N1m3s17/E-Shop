@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Adidas NMD",
+    "brand": "Adidas",
+    "id": 1
+  },
+  {
+    "name": "Adidas Yeezy Boost 350",
+    "brand": "Adidas",
+    "id": 2
+  },
+  {
+    "name": "Vans Old Skool",
+    "brand": "Vans",
+    "id": 3
+  },
+  {
+    "name": "Adidas Superstar",
+    "brand": "Adidas",
+    "id": 4
+  },
+  {
+    "name": "Converse Chuck Taylor All Star",
+    "brand": "Converse",
+    "id": 5
+  },
+  {
+    "name": "Adidas Stan Smith",
+    "brand": "Adidas",
+    "id": 6
+  },
+  {
+    "name": "Nike Air Max 90",
+    "brand": "Nike",
+    "id": 6
+  },
+  {
+    "name": "Nike Air Huarache",
+    "brand": "Nike",
+    "id": 7
+  },
+  {
+    "name": "Nike Air VaporMax",
+    "brand": "Nike",
+    "id": 8
+  },
+  {
+    "brand": "Nike",
+    "name": "Nike Air Max 1",
+    "id": 9
+  },
+  {
+    "brand": "Vans",
+    "name": "Vans Era",
+    "id": 10
+  },
+  {
+    "brand": "Nike",
+    "name": "Nike Air Force 1",
+    "id": 11
+  },
+  {
+    "brand": "Nike",
+    "name": "Air Jordan 1",
+    "id": 12
+  },
+  {
+    "brand": "Nike",
+    "name": "Nike Air Max 97",
+    "id": 13
+  },
+  {
+    "brand": "Nike",
+    "name": "Nike Cortez",
+    "id": 14
+  },
+  {
+    "brand": "Puma",
+    "name": "Puma Suede",
+    "id": 15
+  },
+  {
+    "brand": "Nike",
+    "name": "Nike Air Presto",
+    "id": 16
+  },
+  {
+    "brand": "Air",
+    "name": "Air Jordan XI",
+    "id": 17
+  },
+  {
+    "brand": "Jordan",
+    "name": "Air Jordan VI",
+    "id": 18
+  },
+  {
+    "brand": "Jordan",
+    "name": "Air Jordan III",
+    "id": 19
+  }
+]
