@@ -1,102 +1,51 @@
 [
   {
-    "name": "Adidas NMD",
-    "brand": "Adidas",
-    "id": 1
-  },
-  {
-    "name": "Adidas Yeezy Boost 350",
-    "brand": "Adidas",
-    "id": 2
-  },
-  {
     "name": "Vans Old Skool",
     "brand": "Vans",
-    "id": 3
+    "id": 1000,
+    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.vans.com%2Fis%2Fimage%2FVans%2FZD4Y28-HERO%3F%24583x583%24&imgrefurl=https%3A%2F%2Fwww.vans.com%2Fshop%2Fold-skool-pro&docid=aSOZ7-FqB7UXEM&tbnid=VPxo9ZUHcBzYEM%3A&vet=10ahUKEwituJ705qLiAhVM2qwKHRPfClQQMwiRASgAMAA..i&w=583&h=583&bih=657&biw=1366&q=Vans%20Old%20Skool&ved=0ahUKEwituJ705qLiAhVM2qwKHRPfClQQMwiRASgAMAA&iact=mrc&uact=8",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "name": "Adidas Superstar",
     "brand": "Adidas",
-    "id": 4
+    "id": 1001,
+    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F712tbkBhz3L._UL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.ca%2FAdidas-ORIGINALS-SUPERSTAR-M-Mens-Superstar%2Fdp%2FB01N0B9QJI&docid=Kt_SpLcrtGP6MM&tbnid=oVn9y01MDiYe-M%3A&vet=10ahUKEwjd4NiB56LiAhUE16wKHddjDh8QMwj1ASgEMAQ..i&w=1500&h=1072&bih=657&biw=1366&q=Adidas%20Superstar&ved=0ahUKEwjd4NiB56LiAhUE16wKHddjDh8QMwj1ASgEMAQ&iact=mrc&uact=8",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "name": "Converse Chuck Taylor All Star",
     "brand": "Converse",
-    "id": 5
-  },
-  {
-    "name": "Adidas Stan Smith",
-    "brand": "Adidas",
-    "id": 6
+    "id": 1002,
+    "url": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiBye-X56LiAhVudt8KHRP5B20QjRx6BAgBEAU&url=https%3A%2F%2Fwww.shoes.com%2Fconverse-chuck-taylor-all-star-high-top-sneaker%2F415612&psig=AOvVaw0Pgsq3MEB5-hDI3xZODjtg&ust=1558190786067504",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "name": "Nike Air Max 90",
     "brand": "Nike",
-    "id": 6
+    "id": 1004,
+    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Frender.nikeid.com%2Fir%2Frender%2Fnikeidrender%2FAm90EssHO18_v1%3Fobj%3D%2Fs%2Fshadow%2Fshad%26show%26color%3D000000%26obj%3D%2Fs%2Fg6%26color%3Dc0c0c2%26show%26obj%3D%2Fs%2Fg4%26color%3Dacafb4%26show%26obj%3D%2Fs%2Fg7%26color%3Dff4248%26show%26obj%3D%2Fs%2Fg11%26color%3Ddfe1db%26show%26obj%3D%2Fs%2Fg1%2Fmesh%26color%3De2e8e8%26show%26obj%3D%2Fs%2Fg2%2Fsuede%26color%3Daeafb1%26show%26obj%3D%2Fs%2Fg3%2Flea%26color%3D282c41%26show%26obj%3D%2Fs%2Fg5%2Flea%26color%3Df5f5f5%26show%26obj%3D%2Fs%2Fg14%26color%3Debefe2%26show%26obj%3D%2Fs%2Fg22%2Fsuede%26color%3Daeafb1%26show%26obj%3D%2Fs%2Fg8%26color%3Dff4248%26show%26obj%3D%2Fs%2Fg10%26color%3De2e8e8%26show%26obj%3D%2Fs%2Fg12%26color%3Dd1d1d1%26show%26obj%3D%2Fs%2Fg15%26color%3D808080%26show%26obj%3D%2Fs%2Fg17%2Fwove%26color%3Dd1d1d1%26show%26obj%3D%2Fs%2Fg13%26color%3Dff2b32%26show%26obj%3D%2Fs%2Fg16%2Fsolid%26color%3D1d273c%26show%26obj%3D%2Fs%2Fg19%2Fnpid%26color%3D1c1c1c%26show%26obj%3D%2Fs%26req%3Dobject%26fmt%3Dpng-alpha%26icc%3DAdobeRGB%26wid%3D640&imgrefurl=https%3A%2F%2Fstore.nike.com%2Fus%2Fen_us%2Fproduct%2Fnike-air-max-90-id%2F&docid=XVhxHhVuRWh9QM&tbnid=bmwpb6ugn-RyRM%3A&vet=10ahUKEwiFvaCx56LiAhUERa0KHSjwB8UQMwjeASgAMAA..i&w=640&h=640&bih=657&biw=1366&q=Nike%20Air%20Max%2090&ved=0ahUKEwiFvaCx56LiAhUERa0KHSjwB8UQMwjeASgAMAA&iact=mrc&uact=8",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
-    "name": "Nike Air Huarache",
+    "id": 1005,
     "brand": "Nike",
-    "id": 7
+    "name": "Jordan VI",
+    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.runrepeat.com%2Fi%2Fjordan%2F26399%2Fair-jordan-vi-black-infrared-23-black-8022-600.jpg&imgrefurl=https%3A%2F%2Frunrepeat.com%2Fair-jordan-6&docid=Ia6O4U9TzN8twM&tbnid=lbLG9EKWM5UjRM%3A&vet=10ahUKEwj-qt2o7qXiAhVSRqwKHUdfAhYQMwhrKAAwAA..i&w=600&h=375&bih=657&biw=1366&q=jordan%20vi&ved=0ahUKEwj-qt2o7qXiAhVSRqwKHUdfAhYQMwhrKAAwAA&iact=mrc&uact=8",
+    "description": "These jordan's are the best"
   },
   {
-    "name": "Nike Air VaporMax",
-    "brand": "Nike",
-    "id": 8
+    "id": 1010,
+    "brand": "Skechers",
+    "name": "One Piece",
+    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.skechers.com%2Fimg%2Fproductimages%2Fxlarge%2F52687_WMLT.jpg&imgrefurl=https%3A%2F%2Fwww.skechers.com%2Fen-us%2Fstyle%2F52687%2Fd-lites-3-one-piece-v-2&docid=JGcUvRVHKJsMBM&tbnid=hyR0SO1Og6uciM%3A&vet=10ahUKEwjr_oLTxqbiAhVCAqwKHd1nAhcQMwhNKAAwAA..i&w=1300&h=1151&bih=657&biw=1366&q=skechers%20one%20piece&ved=0ahUKEwjr_oLTxqbiAhVCAqwKHd1nAhcQMwhNKAAwAA&iact=mrc&uact=8",
+    "description": "The seafaring adventures of Monkey D. Luffy and his crew continue with all new style and new characters in the SKECHERS D'Lites 3 - One Piece V.2 shoe featuring characters from The Battle of Marineford!. Smooth leather, synthetic and mesh fabric in a lace up sporty athletic fashion sneaker with stitching accents and Air-Cooled Memory Foam insole. New designs with colorways and decorations inspired by characters from the best selling manga of all time, One Piece®."
   },
   {
-    "brand": "Nike",
-    "name": "Nike Air Max 1",
-    "id": 9
-  },
-  {
-    "brand": "Vans",
-    "name": "Vans Era",
-    "id": 10
-  },
-  {
-    "brand": "Nike",
-    "name": "Nike Air Force 1",
-    "id": 11
-  },
-  {
-    "brand": "Nike",
-    "name": "Air Jordan 1",
-    "id": 12
-  },
-  {
-    "brand": "Nike",
-    "name": "Nike Air Max 97",
-    "id": 13
-  },
-  {
-    "brand": "Nike",
-    "name": "Nike Cortez",
-    "id": 14
-  },
-  {
-    "brand": "Puma",
-    "name": "Puma Suede",
-    "id": 15
-  },
-  {
-    "brand": "Nike",
-    "name": "Nike Air Presto",
-    "id": 16
-  },
-  {
-    "brand": "Air",
-    "name": "Air Jordan XI",
-    "id": 17
-  },
-  {
-    "brand": "Jordan",
-    "name": "Air Jordan VI",
-    "id": 18
-  },
-  {
-    "brand": "Jordan",
-    "name": "Air Jordan III",
-    "id": 19
+    "id": 1009,
+    "brand": "Skechers",
+    "name": "D'Lites",
+    "url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.skechers.com%2Fimg%2Fproductimages%2Fxlarge%2F11930_WBK.jpg&imgrefurl=https%3A%2F%2Fwww.skechers.com%2Fen-ca%2Fstyle%2F11930%2Fd-lites-biggest-fan&docid=6g0cOT6mulNzwM&tbnid=nCifbkHiXbkeHM%3A&vet=10ahUKEwixuojxx6biAhUBVa0KHTZrD10QMwifASgAMAA..i&w=1300&h=1151&bih=657&biw=1366&q=skechers%20d%27lites&ved=0ahUKEwixuojxx6biAhUBVa0KHTZrD10QMwifASgAMAA&iact=mrc&uact=8",
+    "description": "A classic look gets updated with comfort in the SKECHERS D'Lites - Biggest Fan shoe. Smooth trubuck leather and fabric upper in a lace up sporty casual sneaker with stitching and overlay accents. Memory Foam insole."
   }
 ]

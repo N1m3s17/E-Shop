@@ -6,27 +6,27 @@
   <body>
     <%- include('partials/header'); %>
     <main>
-        
+      
       <section class="container">
-        <table class="country-table table">
-          <thead>
-            <tr>
-              <th>ID</th>
-              <th>Brand</th>
-              <th>Shoe Name</th>
-            </tr>
-          </thead>
-          <tbody>
-            <% shoes.forEach((shoe) => { %>
-              <tr>
-                <td><%= shoe.id %></td>
-                <td><%= shoe.brand %></td>
-                <td><%= shoe.name %></td>
-              </tr>
-            <% }); %>
-          </tbody>
-
-          </table>
+          <table class="country-table table">
+                <thead>
+                  <tr>
+                    <th>ID</th>
+                    <th>Brand</th>
+                    <th>Shoe Name</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <% shoes.forEach((shoe) => { %>
+                    <tr>
+                      <td><%= shoe.id %></td>
+                      <td><%= shoe.brand %></td>
+                      <td><a href="/shoe/<%= shoe.id %>"><%= shoe.name %></a></td>
+                    </tr>
+                  <% }); %>
+                </tbody>
+      
+                </table>      
       </section>
 
     </main>

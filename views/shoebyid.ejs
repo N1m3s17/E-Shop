@@ -7,25 +7,17 @@
     <%- include('partials/header'); %>
     <main>
       <section class="container">
-        <table class="country-table table">
-          <thead>
-            <tr>
-              <th>ID</th>  
-              <th>Brand</th>
-              <th>Shoe Name</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-                <td><%= shoe.id %></td>
-                <td><%= shoe.brand %></td>
-                <td><%= shoe.name %></td>
-            </tr>
-          </tbody>
+        <h1><%=shoe.name %></h1>
+        <img src="<%= shoe.url %>" class="img-rounded" alt="Cinque Terre">
+        <p><%= shoe.description %></p>
 
-          </table>
+        <a class="btn btn-primary btn-lg" href="/shoe/<%= shoe.id %>/edit" role="button">Edit</a>
+        <form action="/removeshoe/<%= shoe.id %>" method="get">
+          <br>
+          <button class="btn btn-danger btn-lg">Delete Post</button>
+      </form>
       </section>
-
+>
     </main>
 
     <%- include('partials/footer'); %>

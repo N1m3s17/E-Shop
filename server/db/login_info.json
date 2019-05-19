@@ -1,6 +1,14 @@
 [
-    {
-        "username": "Seminp",
-        "password": "Passw0rd"
-    }
+  {
+    "username": "Seminp",
+    "password": "$argon2i$v=19$m=4096,t=3,p=1$bdBldC3SryqIdohHFXy/Og$i8L529tI7vJI5Yzrq6kq34IIPP4orrog2E+5pdSkpkk"
+  },
+  {
+    "username": "semin",
+    "password": "$argon2i$v=19$m=4096,t=3,p=1$gIQVz956bDYmhGb8I670Tg$a6TOD4RfS/Jh2gOoOLHTSQdmINWskLE6zx+v5tu9WTA"
+  },
+  {
+    "username": "semin.patel",
+    "password": "$argon2i$v=19$m=4096,t=3,p=1$bUTJhNAinN4W+ueSIm4FXA$KM9y+08PpumRdFHOzbRaFO4LzyVV+pv964hv9gfVKVA"
+  }
 ]
